@@ -27,7 +27,7 @@
 
 ###
 
-<p align="center">- 👀 I’m studying DAM<br>- ✨I program plugins for scp sl :D</p>
+<p align="center">- 👀 I’m studying DAM<br>- ✨I program sometimes :D</p>
 
 ###
 
