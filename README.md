@@ -1,25 +1,31 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/126024362?v=4"  />
-</div>
+# 👋 Hi, I'm TheNewR00t
 
-###
+<img align="right" src="https://github.com/TheNewR00t.png" width="150" />
 
-<div align="center">
-</div>
+## 🧑‍💻 About Me
 
-###
+- 🎓 **Developer & Student** — Always learning, always building!
+- 💼 **Professional** in C#, with a focus on plugins and API development.
+- 🛠️ Working with **Exiled** and **LabApi** to create powerful mods and tools.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Davilone32Oficial&style=for-the-badge"  />
-</div>
+## 🚀 Featured Project
 
-###
+- **[SCP 012](https://github.com/TheNewR00t/SCP-012)**  
+  A unique project inspired by the SCP Foundation, built using C#, Exiled, and LabApi.
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## 🛠️ Skills
 
-  <img align="left" alt="TheNewR00t's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheNewR00t&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+- **Languages:** C#
+- **Frameworks/Tools:** Exiled, LabApi
 
-</details>
+## 🎮 Fun Fact
 
-###
+- I love videogames—always up for a challenge or a new adventure!
+
+## 🌐 Connect with Me
+
+- [Twitter](https://x.com/davilone32rl)  <!-- Replace 'your-handle' with your actual Twitter username -->
+- [Discord](https://discord.gg/9A5S9TGgQu)
+---
+
+> “Stay curious, keep coding, and never stop playing!”
