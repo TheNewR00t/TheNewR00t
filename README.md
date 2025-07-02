@@ -27,7 +27,7 @@
 ## 🌐 Connect with Me
 
 - [Twitter](https://x.com/davilone32rl)  <!-- Replace 'your-handle' with your actual Twitter username -->
-- [Discord]([https://discord.gg/9A5S9TGgQu](https://discord.gg/crimson-breach))
+- [Discord](https://discord.gg/crimson-breach)
 ---
 
 > “Stay curious, keep coding, and never stop playing!”
