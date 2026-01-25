@@ -27,7 +27,7 @@
 ## 🌐 Connect with Me
 
 - [Twitter](https://x.com/davilone32rl)  <!-- Replace 'your-handle' with your actual Twitter username -->
-- KaiLone32 in discord
+- thenewroot in discord
 ---
 
 > “Stay curious, keep coding, and never stop playing!”
