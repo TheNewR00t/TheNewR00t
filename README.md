@@ -5,8 +5,8 @@
 ## 🧑‍💻 Sobre mi
 
 - 🎓 **Developer y estudiante** — Siempre aprendiendo y creando!
-- 💼 **Profesional** en C#, con focus en backends web con Asp.Net.
-- 🛠️ Trabajo con **Asp.Net** para crear backends.
+- 💼 **Profesional** en C#, con focus en backends web con ASP.NET.
+- 🛠️ Trabajo con **ASP.NET** para crear backends.
 
 ## 🚀 Proyectos
 
@@ -15,7 +15,7 @@
 ## 🛠️ Skills
 
 - **Lenguaje:** C#
-- **Frameworks/Tools:** ASP.Net
+- **Frameworks/Tools:** ASP.NET Core
 
 ## 🎮 Fun Fact
 
