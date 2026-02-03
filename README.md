@@ -2,29 +2,27 @@
 
 <img align="right" src="https://github.com/TheNewR00t.png" width="150" />
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mi
 
-- 🎓 **Developer & Student** — Always learning, always building!
-- 💼 **Professional** in C#, with a focus on plugins and API development.
-- 🛠️ Working with **Exiled** and **LabApi** to create powerful mods and tools.
+- 🎓 **Developer y estudiante** — Siempre aprendiendo y creando!
+- 💼 **Profesional** en C#, con focus en backends web con Asp.Net.
+- 🛠️ Trabajo con **Asp.Net** para crear backends.
 
-## 🚀 Featured Project
+## 🚀 Proyectos
 
-- Yes
+- Comming soon...
 
 ## 🛠️ Skills
 
-- **Languages:** C#
-- **Frameworks/Tools:** Asp.Net
+- **Lenguaje:** C#
+- **Frameworks/Tools:** ASP.Net
 
 ## 🎮 Fun Fact
 
-- I love videogames—always up for a challenge or a new adventure!
+- Me gustan los videojuegos
 
-## 🌐 Connect with Me
+## 🌐 Contacta conmigo
 
-- [Twitter](https://x.com/davilone32rl)  <!-- Replace 'your-handle' with your actual Twitter username -->
-- thenewroot in discord
+- [Twitter](https://x.com/davilone32rl)  
+- davilone33 en discord
 ---
-
-> “Stay curious, keep coding, and never stop playing!”
