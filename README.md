@@ -1,6 +1,6 @@
-# 👋 Hola, Soy davilone32
+# 👋 Hola, Soy davilone33
 
-<img align="right" src="https://github.com/TheNewR00t.png" width="150" />
+<img align="right" src="https://github.com/davilone33.png" width="150" />
 
 ## 🧑‍💻 Sobre mi
 
