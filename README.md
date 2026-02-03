@@ -1,4 +1,4 @@
-# 👋 Hi, I'm TheNewR00t
+# 👋 Hola, Soy TheNewR00t
 
 <img align="right" src="https://github.com/TheNewR00t.png" width="150" />
 
