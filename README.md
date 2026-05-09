@@ -14,7 +14,7 @@
 
 ## 🛠️ Skills
 
-- **Lenguaje:** C#
+- **Lenguaje:** C#, JS
 - **Frameworks/Tools:** ASP.NET Core
 
 ## 🎮 Fun Fact
@@ -24,5 +24,5 @@
 ## 🌐 Contacta conmigo
 
 - [Twitter](https://x.com/davilone32rl)  
-- davilone33 en discord
+- davilone32 en discord
 ---
