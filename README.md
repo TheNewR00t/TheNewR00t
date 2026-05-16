@@ -10,7 +10,7 @@
 
 ## 🚀 Proyectos
 
-- Comming soon...
+- [SpaidDidce Distributor](https://github.com/SpaidDidce/SpaidDidce-Distributor)
 
 ## 🛠️ Skills
 
