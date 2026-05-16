@@ -24,5 +24,5 @@
 ## 🌐 Contacta conmigo
 
 - [Twitter](https://x.com/davilone32rl)  
-- davilone32 en discord
+- [discord](https://discord.com/users/1333061271700111373)
 ---
