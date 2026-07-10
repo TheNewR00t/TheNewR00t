@@ -15,7 +15,7 @@
 ## 🛠️ Skills
 
 - **Lenguaje:** C#
-- **Frameworks/Tools:** ASP.NET Core
+- **Frameworks/Tools:** ASP.NET Core, Unity
 
 ## 🎮 Fun Fact
 
