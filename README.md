@@ -5,7 +5,7 @@
 ## 🧑‍💻 Sobre mi
 
 - 🎓 **Developer y estudiante** — Siempre aprendiendo y creando!
-- 💼 **Senior developer** en C#, con focus en backends web con ASP.NET.
+- 💼 **Junior developer** en C#, con focus en backends web con ASP.NET.
 - 🛠️ Trabajo con **ASP.NET** para crear backends.
 
 ## 🚀 Proyectos
