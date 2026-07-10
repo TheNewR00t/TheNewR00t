@@ -14,7 +14,7 @@
 
 ## 🛠️ Skills
 
-- **Lenguaje:** C#, JS
+- **Lenguaje:** C#
 - **Frameworks/Tools:** ASP.NET Core
 
 ## 🎮 Fun Fact
