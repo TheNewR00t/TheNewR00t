@@ -106,8 +106,6 @@ https://github.com/SpaidDidce/SpaidDidce-Distributor
 
 📧 **Email:** contactodavilone32@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/david-vertedor-jim%C3%A9nez-79a997364/
-
 🐦 **Twitter/X:** https://x.com/davilone32rl
 
 ---
